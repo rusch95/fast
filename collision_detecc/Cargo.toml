@@ -1,0 +1,7 @@
+[package]
+name = "collision_detecc"
+version = "0.1.0"
+authors = ["Robert Rusch <rusch@mit.edu>"]
+edition = "2018"
+
+[dependencies]
