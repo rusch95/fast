@@ -1,8 +1,0 @@
-[package]
-name = "raytrace"
-version = "0.1.0"
-authors = ["Robert Rusch <rusch@mit.edu>"]
-
-[dependencies]
-num = "0.1.27"
-image = "0.13.0"
